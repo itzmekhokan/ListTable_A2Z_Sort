@@ -1,0 +1,78 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Featured Listing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-28 17:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.2.2"
+
+#. Description of the plugin
+msgid ""
+"An eCommerce toolkit used to show featured or exclusive products first "
+"priority basis."
+msgstr ""
+
+#: includes/class-wc-featured-listing-admin.php:44
+msgid "Enable feature listing"
+msgstr ""
+
+#: includes/class-wc-featured-listing-admin.php:66
+msgid ""
+"Enable feature products first for search page only. Enabled it to override "
+"\"Enable feature products globally\" functionality."
+msgstr ""
+
+#: includes/class-wc-featured-listing-admin.php:52
+msgid ""
+"Enable feature products first for shop page only. Enabled it to override "
+"\"Enable feature products globally\" functionality."
+msgstr ""
+
+#: includes/class-wc-featured-listing-admin.php:59
+msgid ""
+"Enable feature products first for taxonomy page only. Enabled it to override "
+"\"Enable feature products globally\" functionality."
+msgstr ""
+
+#: includes/class-wc-featured-listing-admin.php:45
+msgid "Enable feature products first in all woocommerce products page."
+msgstr ""
+
+#: includes/class-wc-featured-listing-admin.php:38
+msgid "Featured listing"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://itzmekhokan.wordpress.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "itzmekhokan"
+msgstr ""
+
+#: includes/class-wc-featured-listing.php:180
+#, php-format
+msgid ""
+"Thanks for installing WooCommerce Feature Listing. %sConnect your license "
+"key%s to get started."
+msgstr ""
+
+#: includes/class-wc-featured-listing.php:167
+#, php-format
+msgid ""
+"WooCommerce Feature Listing requires %sWooCommerce%s to be installed & "
+"activated!"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Featured Listing"
+msgstr ""

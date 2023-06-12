@@ -1,0 +1,22 @@
+.wpam-uploaded-img-wrapper.none {
+    display: none;
+}
+.wpam-uploaded-img-wrapper.active {
+    display: block;
+}
+a.wpam-upload-wrap {
+    border: 1px solid #bbb;
+    height: 96px;
+    width: 96px;
+    display: block;
+}
+a.wpam-upload-wrap img {
+    height: 96px;
+    width: 96px;
+}
+.wpam-upload-wrap.active {
+    display: block;
+}
+.wpam-upload-image.none {
+    display: none;
+}
